@@ -4,12 +4,13 @@
 ![AstrBot](https://img.shields.io/badge/AstrBot-4.18+-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-green.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)
+</div>
 
 **为 AstrBot 打造的塔罗牌占卜插件，支持每日抽牌与 LLM 智能解读**
 
 **本插件使用纯AI编写，鲁棒性未经测试，目前使用功能正常**
 
-</div>
+
 
 ---
 ## 📖 目录
@@ -277,4 +278,5 @@ copies of the Software...
 ---
 
 <div align="center">
+
 **🌙 愿星辰指引你的道路~**
