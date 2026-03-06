@@ -1,8 +1,11 @@
 # 🔮 AstrBot 塔罗牌占卜插件
 
 <div align="center">
+    
 ![AstrBot](https://img.shields.io/badge/AstrBot-4.18+-blue.svg)
+    
 ![Python](https://img.shields.io/badge/Python-3.10+-green.svg)
+
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)
 </div>
 
@@ -19,10 +22,8 @@
 - [效果预览](#-效果预览)
 - [安装方法](#-安装方法)
 - [使用说明](#-使用说明)
-- [配置说明](#-配置说明)
 - [文件结构](#-文件结构)
 - [常见问题](#-常见问题)
-- [开发贡献](#-开发贡献)
 - [许可证](#-许可证)
 
 ---
@@ -254,23 +255,6 @@ astrbot_plugin_tarot/
 ---
 
 
-
-## 📄 许可证
-
-本项目采用 [MIT 许可证](LICENSE)
-
-```
-Copyright (c) 2024 Sqridmus
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
-
----
-
 ## 🙏 致谢
 
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot) - 强大的机器人框架
@@ -280,3 +264,5 @@ copies of the Software...
 <div align="center">
 
 **🌙 愿星辰指引你的道路~**
+
+</div>
