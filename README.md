@@ -7,6 +7,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-green.svg)
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg )
 </div>
 
 **为 AstrBot 打造的塔罗牌占卜插件，支持每日抽牌与 LLM 智能解读**
@@ -241,6 +243,19 @@ astrbot_plugin_tarot/
 
 ---
 
+## 📄 许可证
+
+本项目采用 [MIT 许可证](LICENSE)
+
+```
+Copyright (C) 2026 SqridmusZam
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
 
 ## 🙏 致谢
 
@@ -253,4 +268,3 @@ astrbot_plugin_tarot/
 **🌙 愿星辰指引你的道路~**
 
 </div>
-
