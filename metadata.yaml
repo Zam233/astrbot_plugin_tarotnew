@@ -1,8 +1,9 @@
 name: astrbot_plugin_tarotnew
 version: 1.0.0
 description: 塔罗牌占卜插件，支持每日抽牌和LLM解读
-author: SqridmusZam
-repository: https://github.com/yourname/astrbot_plugin_tarotnew
+author: 扎姆
+repository: https://github.com/Zam233/astrbot_plugin_tarotnew
 display_name: 塔罗牌占卜
 astrbot_version: ">=4.0.0"
+
 logo: logo.png
